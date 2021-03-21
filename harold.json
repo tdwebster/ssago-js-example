@@ -7,5 +7,7 @@
 	"nonAdmin": ["Sorry, only team pink can do that! You could join at the next AGM."],
 	"unknown": ["Sorry, I don't understand."],
 	"statusType": ["LISTENING", "WATCHING", "PLAYING"],
-	"statusActivity": ["club concerns", "SSAGO grow", "with the exec"]
+	"statusActivity": ["club concerns", "SSAGO grow", "with the exec"],
+	"mainserver": "689381329535762446",
+	"botschannel": "690198193623007262"
 }

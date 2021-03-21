@@ -1,6 +1,4 @@
 {
 	"token": "your_token_here",
-	"database": "give_some_database_details_if_you_want",
-	"mainserver": "689381329535762446",
-	"botschannel": "690198193623007262"
+	"database": "give_some_database_details_if_you_want"
 }
