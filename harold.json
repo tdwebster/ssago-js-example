@@ -1,0 +1,11 @@
+{
+	"prefix": "harold!",
+	"dmPrefix": "!",
+	"owner":"689454811388969010",
+	"jump": ["*curls into ball and rolls around instead*"],
+	"error": ["Oh no. I'm broken. Where's Oli?"],
+	"nonAdmin": ["Sorry, only team pink can do that! You could join at the next AGM."],
+	"unknown": ["Sorry, I don't understand."],
+	"statusType": ["LISTENING", "WATCHING", "PLAYING"],
+	"statusActivity": ["club concerns", "SSAGO grow", "with the exec"]
+}
